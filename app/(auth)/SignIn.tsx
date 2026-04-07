@@ -12,6 +12,12 @@ const SignIn = () => {
       >
         Sign-Up
       </Link>
+      <Link
+        className="mt-4 rounded bg-primary text-white p-4"
+        href="/"
+      >
+        Go back
+      </Link>
     </View>
   );
 };
